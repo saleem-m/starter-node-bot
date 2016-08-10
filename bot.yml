@@ -1,10 +1,10 @@
-name: nodebot
+name: pbot
 description: A simple node.js starter bot for Beep Boop
 avatar: resources/avatar.png
 #background: resources/background.png
 #config:
-#  - name: OPTION
-#    friendly_name: Some Unnecessary Option
+#  - name: PBOT
+#    friendly_name: PBot
 #    info: This is an unnecessary option
 #    default: the default value
 #  - name: SECRET
